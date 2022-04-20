@@ -1,0 +1,27 @@
+{
+  "name": "civil3",
+  "version": "1.0.0",
+  "description": "codigo de proyecto civil",
+  "main": "src/index.js",
+  "scripts": {
+    "dev":"webpack --mode development",
+    "build":"webpack --mode production"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasMeGu/civil.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "NicolasMejia <Mejianicolasg2016@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasMeGu/civil/issues"
+  },
+  "homepage": "https://github.com/NicolasMeGu/civil#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  }
+}
